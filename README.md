@@ -33,9 +33,9 @@
 
 Todas as tecnologias usadas na realização do projeto:
 
-* <a target = "_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>
-* <a target = "_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">HTML5</a>
-* <a target = "_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3</a>
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+* [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 </div>
 
@@ -73,10 +73,10 @@ $ open index.html
 
 Alguns locais de onde me baseei para realizar o projeto:
 
-* <a target = "_blank" href="https://rocketseat.com.br/">Rocketseat</a>
-* <a target = "_blank" href="https://gist.github.com/justsml/529d0b1ddc5249095ff4b890aad5e801">Repositório</a>
+* [Rocketseat](https://rocketseat.com.br/)
+* [Repositório](https://gist.github.com/justsml/529d0b1ddc5249095ff4b890aad5e801)
 
-:mag: &#xa0; Os ícones usados nesse README foram tirados <a target = "_blank" href="https://gist.github.com/rxaviers/7360908">desse repositório</a>.
+:mag: &#xa0; Os ícones usados nesse README foram tirados desse [repositório](https://gist.github.com/rxaviers/7360908).
 
 </div>
 
@@ -84,9 +84,9 @@ Alguns locais de onde me baseei para realizar o projeto:
 
 ## :wave: Contato ##
 
-:necktie: &#xa0; <a target = "_blank" href = "https://www.linkedin.com/in/iurilopesalmeida/"> LinkedIn </a>
+:necktie: &#xa0; [LinkedIn](https://www.linkedin.com/in/iurilopesalmeida/)
 <br>
-:rocket: &#xa0; <a target = "_blank" href="https://app.rocketseat.com.br/me/iurialmeida"> Rocketseat </a>
+:rocket: &#xa0; [Rocketseat](https://app.rocketseat.com.br/me/iurialmeida)
 
 </div>
 
