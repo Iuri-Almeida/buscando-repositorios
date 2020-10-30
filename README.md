@@ -74,6 +74,7 @@ $ open index.html
 Alguns locais de onde me baseei para realizar o projeto:
 
 * [Rocketseat](https://rocketseat.com.br/)
+* [Repositório](https://gist.github.com/justsml/529d0b1ddc5249095ff4b890aad5e801)
 
 :mag: &#xa0; Os ícones usados nesse README foram tirados desse [repositório](https://gist.github.com/rxaviers/7360908).
 
