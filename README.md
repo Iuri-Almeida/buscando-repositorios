@@ -63,6 +63,7 @@ $ open index.html
 
 * Gerar um tratamento melhor quando der erros na requisição
 * Utilizar o autocomplete na busca por repositórios
+* Diminuir a verbosidade do código
 
 </div>
 
